@@ -1,0 +1,9 @@
+http://opentutorials.org:3000/main?id=HTML&page=12
+http => protocol 통신규칙: 서버에 접속할때 어떤방식으로 통신할 것인가?
+		ftp를 사용하면 ftp라고 적혀있을거임
+opentutorials.org => host(domain): 특정 인터넷에 연결되어있는 컴퓨터를 가르키는 주소
+3000: 포트번호 => 3000번 포트에 연결되어있는 서버와 통신하자.
+main: path => 어떤 디렉토리의 파일인가
+id=HTML&page=12 : query string => 시작은 물음표. 읽고 싶은 정보.
+				  값과 값은 &, 이름은 =로 
+				  
