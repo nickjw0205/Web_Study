@@ -12,7 +12,6 @@ var number = [1,400,21,13,5432];
 var i = 0;
 var  sum = 0;
 while(i < number.length){
-	console.log(number[i]);
 	i = i+1;
 	sum = sum + number[i];
 }

@@ -1,3 +1,4 @@
+
 http://opentutorials.org:3000/main?id=HTML&page=12
 http => protocol 통신규칙: 서버에 접속할때 어떤방식으로 통신할 것인가?
 		ftp를 사용하면 ftp라고 적혀있을거임
