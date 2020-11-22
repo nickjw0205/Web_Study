@@ -9,6 +9,8 @@ var mysql = require('mysql');
 var db = mysql.createConnection({
   host:'localhost',
   user:'root',
+  password:'suh1021',
+  database:'opentutorials'
 });
 db.connect();
 
